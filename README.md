@@ -1,10 +1,4 @@
-# SISTEM TEMU JANJI VETERINAR KLINIK HAIWAN ALBY
-
-=====================================================================================
-				      Manual Pengguna
-				 SISTEM TEMUJANJI VETERINAR
-				     KLINIK HAIWAN ALBY
-=====================================================================================
+# SISTEM TEMU JANJI VETERINAR KLINIK HAIWAN ALBY (Manual Pengguna)
 
 1. Layari laman web prototaip sistem dengan pautan di bawah:
 	https://.....
